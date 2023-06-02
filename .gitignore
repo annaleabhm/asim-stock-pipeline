@@ -1,0 +1,5 @@
+*.csv
+.venv
+.vscode
+Archive(1)
+.DS_Store
